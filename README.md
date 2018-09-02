@@ -1,2 +1,2 @@
 # CIBEA
-A website
+My first repository on Github
